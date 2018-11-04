@@ -1,6 +1,6 @@
-token=NDc2Njk2NTgxMzU0MjkxMjEx.Dnrj-g.y596ycjEocoGIseTOHXcf0k1p4s
-owner=194559857536270336 
-prefix=1
-game=1play
+token=NTA4Njc0MjEzNTc0MzQ0NzA0.DsCsoQ.JmGSdiK-qWAJ4G0M4YT537pCdn4
+owner=368768446327947265 
+prefix=E
+game=Event|EHelp.
 stayinchannel=true
 songinstatus=true
